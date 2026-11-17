@@ -65,7 +65,7 @@ The full log of steps and their gains is in `experiments/README.md`.
 | idea | result |
 |---|---|
 | Smart Tagging (who takes a restart) | -0.001 to -0.004 |
-| the ball detected in the tactical video | at most +0.02 even with a perfect detector; not built |
+| a ball detector on both videos (pretrained, off the shelf; pixel to pitch with the homography) | on four test minutes it agrees with the tracked ball (median 1-1.6 m), but on the play frames where both tracking files lose the ball it finds one only 28% of the time: about 1% of play. Its other misses are mostly a spare ball by the touchline. Expected gain well below the noise; not built |
 | SkillCorner's 20 matches as extra training matches | -0.037 |
 | the Metrica games in training | no change (kept as a clean test instead) |
 | other models: random forest, XGBoost, logistic regression, TCN, a network over the players, pitch control | within the noise |
@@ -139,7 +139,8 @@ Implemented in `fc_anomaly/labels.py` (training labels) and as the last step of 
   the ball). A model trained under one reading and scored under the other loses 0.05-0.16, more than
   any model change.
 
-**With more time:** a ball detector on the tactical video (ceiling about +0.02 on BAR-ATH), a touch
+**With more time:** a ball detector trained for football broadcasts (an off-the-shelf one finds the ball
+on only 28% of the frames where the tracking loses it), a touch
 detector for duels trained on a provider with sharp ball tracking, and a labelled two-camera match to
 test the broadcast ball.
 
