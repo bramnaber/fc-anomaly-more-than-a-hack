@@ -1,0 +1,18 @@
+group,signals,classifier AUC
+ALL,238,0.9822
+dead/ball outside,4,0.5237
+dead/ball seen,9,0.5902
+dead/broadcast,7,0.6659
+dead/player speed,30,0.7947
+dead/spread,2,0.5927
+raw,3,0.7577
+team/block,18,0.7267
+team/carry,14,0.6182
+team/contact,6,0.5849
+team/direction,4,0.5956
+team/geometry,21,0.6184
+team/long,8,0.6481
+team/path,36,0.7817
+team/press,12,0.6188
+team/shape,55,0.8969
+team/touch,9,0.5443

@@ -1,0 +1,61 @@
+variant,seed,test,spellF1
+all 183,0,J03WMX/ext_random,0.6767
+all 183,0,J03WMX/ext_stoppages,0.7623
+all 183,0,J03WN1/ext_random,0.6717
+all 183,0,J03WN1/ext_stoppages,0.7814
+all 183,0,J03WOH/ext_random,0.6694
+all 183,0,J03WOH/ext_stoppages,0.7577
+all 183,0,J03WOY/ext_random,0.6766
+all 183,0,J03WOY/ext_stoppages,0.7970
+all 183,0,J03WPY/ext_random,0.7447
+all 183,0,J03WPY/ext_stoppages,0.8041
+all 183,0,J03WQQ/ext_random,0.7090
+all 183,0,J03WQQ/ext_stoppages,0.8081
+all 183,0,J03WR9/ext_random,0.7549
+all 183,0,J03WR9/ext_stoppages,0.7935
+all 183,0,metrica/1/0.0,0.8137
+all 183,0,metrica/1/0.8,0.7906
+all 183,0,metrica/2/0.0,0.8069
+all 183,0,metrica/2/0.8,0.8062
+all 183,0,metrica/3/0.0,0.8235
+all 183,0,metrica/3/0.8,0.8115
+without the four groups,0,J03WMX/ext_random,0.6856
+without the four groups,0,J03WMX/ext_stoppages,0.7645
+without the four groups,0,J03WN1/ext_random,0.6544
+without the four groups,0,J03WN1/ext_stoppages,0.7640
+without the four groups,0,J03WOH/ext_random,0.6915
+without the four groups,0,J03WOH/ext_stoppages,0.7477
+without the four groups,0,J03WOY/ext_random,0.6799
+without the four groups,0,J03WOY/ext_stoppages,0.7813
+without the four groups,0,J03WPY/ext_random,0.7374
+without the four groups,0,J03WPY/ext_stoppages,0.7818
+without the four groups,0,J03WQQ/ext_random,0.6971
+without the four groups,0,J03WQQ/ext_stoppages,0.8143
+without the four groups,0,J03WR9/ext_random,0.7467
+without the four groups,0,J03WR9/ext_stoppages,0.7650
+without the four groups,0,metrica/1/0.0,0.8007
+without the four groups,0,metrica/1/0.8,0.7872
+without the four groups,0,metrica/2/0.0,0.7992
+without the four groups,0,metrica/2/0.8,0.7917
+without the four groups,0,metrica/3/0.0,0.8186
+without the four groups,0,metrica/3/0.8,0.8128
+without the four groups and the rule touches,0,J03WMX/ext_random,0.6871
+without the four groups and the rule touches,0,J03WMX/ext_stoppages,0.7542
+without the four groups and the rule touches,0,J03WN1/ext_random,0.6583
+without the four groups and the rule touches,0,J03WN1/ext_stoppages,0.7707
+without the four groups and the rule touches,0,J03WOH/ext_random,0.6832
+without the four groups and the rule touches,0,J03WOH/ext_stoppages,0.7487
+without the four groups and the rule touches,0,J03WOY/ext_random,0.6717
+without the four groups and the rule touches,0,J03WOY/ext_stoppages,0.7842
+without the four groups and the rule touches,0,J03WPY/ext_random,0.7256
+without the four groups and the rule touches,0,J03WPY/ext_stoppages,0.7831
+without the four groups and the rule touches,0,J03WQQ/ext_random,0.7067
+without the four groups and the rule touches,0,J03WQQ/ext_stoppages,0.8118
+without the four groups and the rule touches,0,J03WR9/ext_random,0.7485
+without the four groups and the rule touches,0,J03WR9/ext_stoppages,0.7721
+without the four groups and the rule touches,0,metrica/1/0.0,0.7986
+without the four groups and the rule touches,0,metrica/1/0.8,0.7772
+without the four groups and the rule touches,0,metrica/2/0.0,0.7954
+without the four groups and the rule touches,0,metrica/2/0.8,0.7811
+without the four groups and the rule touches,0,metrica/3/0.0,0.8308
+without the four groups and the rule touches,0,metrica/3/0.8,0.8127

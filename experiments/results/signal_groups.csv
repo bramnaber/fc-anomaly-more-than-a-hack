@@ -1,0 +1,4 @@
+variant,seed,signals,team_cost,dead_cost,LOMO,LOMO first layer,LOMO ext_random,LOMO ext_stoppages,Metrica 0.0,Metrica 0.8,d LOMO,d Metrica 0.0,d Metrica 0.8
+all 183,0,183,12,25,0.7433,0.7200,0.7004,0.7863,0.8147,0.8028,0.0000,0.0000,0.0000
+without the four groups,0,131,8,25,0.7365,0.7107,0.6989,0.7741,0.8062,0.7972,-0.0068,-0.0085,-0.0055
+without the four groups and the rule touches,0,122,8,25,0.7361,0.7128,0.6973,0.7750,0.8082,0.7903,-0.0072,-0.0065,-0.0124

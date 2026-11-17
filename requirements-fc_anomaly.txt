@@ -1,0 +1,9 @@
+# Exact versions for the fc_anomaly pipeline. Pinned so the submission file is reproduced
+# bit for bit. Tested with Python 3.9.6 on macOS.
+numpy==2.0.2
+pandas==2.3.3
+scikit-learn==1.6.1
+scipy==1.13.1
+joblib==1.5.3
+kloppy==3.19.1
+lxml==6.1.3
